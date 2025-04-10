@@ -33,12 +33,11 @@ This project solves the problem of content overload by narrowing down movie choi
 ## 📅 Project Phases
 
 | Phase                         | Description                               | Time     |
-|------------------------------|-------------------------------------------|----------|
+|------------------------------|--------------------------------------------|----------|
 | Planning                     | Define features and structure              | Week 1   |
 | Backend Development          | Core logic and data handling               | Week 2-3 |
-| Console UI Design            | Text-based interface setup                 | Week 4   |
-| Integration & Testing        | Combine modules and test                   | Week 5   |
-| Finalization & Documentation| Complete and polish                        | Week 6   |
+| Integration & Testing        | Combine modules and test                   | Week 4   |
+| Finalization & Documentation | Complete and polish                        | Week 5   |
 
 ## ✅ Outcome
 
@@ -50,9 +49,5 @@ This project demonstrates practical application of Java OOP principles to build 
 - [W3Schools - Java](https://www.w3schools.com/java/)  
 - [GeeksforGeeks - OOP in Java](https://www.geeksforgeeks.org/java-oops-concepts/)  
 - [IMDb / TMDb API Documentation (if used)]  
-- Stack Overflow (for troubleshooting and ideas)
+- [chatgpt-for ideas]
 
----
-
-👩‍💻 **Author**: Nafisa Tasfia  
-🎓 **Submitted To**: Debabarata Mallick
